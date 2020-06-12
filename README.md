@@ -1,2 +1,2 @@
 # leetcode
-leetcode_programming_sloutions - June challenge
+leetcode_programming_solutions - June challenge
